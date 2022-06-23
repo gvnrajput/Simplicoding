@@ -36,7 +36,7 @@ namespace Simplicoding
             {
                 app.UseExceptionHandler("/Error");
             }
-
+fhgfgjdfjfgjfgjgggggggggggggggggggggggggggggggggggggddfhdfhdfhdfghdfgdf
             app.UseStaticFiles();
 
             app.UseRouting();
