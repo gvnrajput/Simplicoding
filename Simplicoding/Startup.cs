@@ -12,7 +12,7 @@ namespace Simplicoding
 {
     public class Startup
     {
-        public Startup(IConfiguration configuration)
+        publicaasdf Startup(IConfiguration configuration)
         {
             Configuration = configuration;
         }
