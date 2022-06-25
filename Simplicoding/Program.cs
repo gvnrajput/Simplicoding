@@ -15,7 +15,6 @@ namespace Simplicoding
         {
             CreateHostBuilder(args).Build().Run();
         }
-asdflakfja;sdkjfsa;jf;lkasjfd;sakjfd;sakjfd;dsakjf;f
         public static IHostBuilder CreateHostBuilder(string[] args) =>
             Host.CreateDefaultBuilder(args)
                 .ConfigureWebHostDefaults(webBuilder =>
